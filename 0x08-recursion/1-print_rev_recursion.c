@@ -1,6 +1,6 @@
 /*
  * File: 1-print_rev_recursion.c
- * Auth: sam
+ * Auth: Tarbie
  */
 
 #include "main.h"
@@ -10,7 +10,6 @@
  * @s: The string to be printed.
  */
 void _print_rev_recursion(char *s)
-
 {
 	if (*s)
 	{
