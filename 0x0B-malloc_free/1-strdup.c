@@ -7,6 +7,7 @@
  * @str: char
  * Return: 0
  */
+
 char *_stdup(char *str)
 {
 	char *aaa;
